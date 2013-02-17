@@ -2,9 +2,9 @@
 #################
 # Deploy the gem 'palladius'
 
-version = File.read( 'VERSION' ) 
+#version = File.read( 'VERSION' ) 
 
-Echoe.new('palladius', version ) do |p|
+Echoe.new('palladius') do |p|
   p.summary        = "My PALLADIUS gem. See http://github.com/palladius/palladius"
   p.description    = "My PALLADIUS gem with various utilities. 
   

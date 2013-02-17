@@ -1,8 +1,9 @@
+CHANGELOG
 Makefile
+Manifest
 README.md
 Rakefile
-VERSION
 init.rb
 lib/palladius.rb
+palladius.gemspec
 tasks/gemmization.rake
-Manifest
