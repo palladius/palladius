@@ -8,4 +8,4 @@ test:
 
 # deploys gem
 deploy:
-	rake build && rake release && rake publish_docs && verde Correctly deployed
+	rake manifest && rake build_gemspec && rake release && rake publish_docs && verde Correctly deployed
