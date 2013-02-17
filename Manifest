@@ -1,0 +1,8 @@
+Makefile
+README.md
+Rakefile
+VERSION
+init.rb
+lib/palladius.rb
+tasks/gemmization.rake
+Manifest
