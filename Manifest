@@ -1,9 +1,0 @@
-CHANGELOG
-Makefile
-Manifest
-README.md
-Rakefile
-init.rb
-lib/palladius.rb
-tasks/gemmization.rake
-test/fail.rb
