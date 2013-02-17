@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.description = "My PALLADIUS gem with various utilities. \n  \n  More to come\n  "
   s.email = "rusko AT palladius DOT it"
   s.extra_rdoc_files = ["CHANGELOG", "README.md", "lib/palladius.rb", "tasks/gemmization.rake"]
-  s.files = ["CHANGELOG", "Makefile", "Manifest", "README.md", "Rakefile", "init.rb", "lib/palladius.rb", "tasks/gemmization.rake", "palladius.gemspec"]
+  s.files = ["CHANGELOG", "Makefile", "Manifest", "README.md", "Rakefile", "init.rb", "lib/palladius.rb", "palladius.gemspec", "tasks/gemmization.rake"]
   s.homepage = "http://github.com/palladius/palladius"
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Palladius", "--main", "README.md"]
   s.require_paths = ["lib"]
