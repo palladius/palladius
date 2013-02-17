@@ -1,0 +1,10 @@
+CHANGELOG
+Makefile
+Manifest
+README.md
+Rakefile
+init.rb
+lib/palladius.rb
+palladius.gemspec
+tasks/gemmization.rake
+test/fail.rb
