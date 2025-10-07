@@ -4,7 +4,7 @@
 * Work: Developer Advocate, Google Cloud.
 * Languages: Ruby, Python, Bash
 * Super Powers: Gemini CLI, SRE, CI/CD, DevOps, Demos.
-* [My Next Talks](https://portfolio-app-272932496670.europe-west1.run.app/next-talks)
+* [My Next Talks](https://portfolio-app-272932496670.europe-west1.run.app/next-talks) (super up-to-date!!)
 
 ![about me](image.png)
 
@@ -21,7 +21,7 @@
 📂 [Sessions and Bio on GH](https://github.com/palladius/my-sessions-and-bio)
 📹 [YouTube](https://www.youtube.com/@riccardocarlesso)
 🎤 [SpeakerDeck](https://speakerdeck.com/palladius)
-About Me
+
 
 ![alt text](image-1.png)
 
